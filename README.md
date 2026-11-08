@@ -1,5 +1,4 @@
 # Dalamud.NekoTrakStatus
-纯粹的vibe coding产物 原插件为管库的Discord Rich Presence https://github.com/goaaats/Dalamud.RichPresence
 NekoTrak Status（FF14 卫月插件）
 把 FF14 游戏内状态实时输出给 NekoTrak（Steam 状态类桌宠，原 FlowTrak）。
 
