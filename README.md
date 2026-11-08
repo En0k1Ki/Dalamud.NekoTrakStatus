@@ -1,1 +1,1 @@
-# Dalamud.VibeCoding
+# Dalamud.NekoTrakStatus
