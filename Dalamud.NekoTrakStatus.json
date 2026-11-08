@@ -1,0 +1,22 @@
+{
+  "Author": "NekoTrakStatus",
+  "Name": "NekoTrak Status",
+  "InternalName": "Dalamud.NekoTrakStatus",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "将当前地图、职业、等级、世界、队伍、排队等信息写入本地状态文件（可选同名 JSON 和游戏窗口标题），供 NekoTrak（Steam 状态桌宠）的自定义状态（命令行表达式）或窗口标题规则读取展示。由 Dalamud.RichPresence 改造而来，数据只保存在本机。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/goaaats/Dalamud.RichPresence",
+  "Tags": [
+    "NekoTrak",
+    "status",
+    "FF14",
+    "桌宠"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "把 FF14 游戏内状态实时输出给 NekoTrak 桌宠",
+  "AcceptsFeedback": true
+}
